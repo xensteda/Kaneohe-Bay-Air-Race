@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+   <models>
+    <model>
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-80</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullStartGate.ac</path>
+      <latitude-deg type="double">21.43183856</latitude-deg>
+      <longitude-deg type="double">-157.7726093</longitude-deg>
+      <elevation-ft type="double">-0.1752430985</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullStartGate.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">80</stg-heading-deg>
+      <elevation-m type="double">-0.05341409642</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullStartGate.ac -157.77260925 21.43183856 -0.0534 80.0 0.0 -0.0</object-line>
+    </model>
+    <model n="1">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</path>
+      <latitude-deg type="double">21.43195172</latitude-deg>
+      <longitude-deg type="double">-157.7737828</longitude-deg>
+      <elevation-ft type="double">-0.1938864981</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">-0.05909660462</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac -157.77378278 21.43195172 -0.0591 0.0 0.0 -0.0</object-line>
+    </model>
+    <model n="2">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">20</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac</path>
+      <latitude-deg type="double">21.43144833</latitude-deg>
+      <longitude-deg type="double">-157.7756973</longitude-deg>
+      <elevation-ft type="double">-0.2118482621</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">340</stg-heading-deg>
+      <elevation-m type="double">-0.06457135029</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac -157.77569726 21.43144833 -0.0646 340.0 0.0 -0.0</object-line>
+    </model>
+    <model n="3">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</path>
+      <latitude-deg type="double">21.43048053</latitude-deg>
+      <longitude-deg type="double">-157.77499</longitude-deg>
+      <elevation-ft type="double">-0.1904732287</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">-0.05805624011</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac -157.77498999 21.43048053 -0.0581 0.0 0.0 -0.0</object-line>
+    </model>
+    <model n="4">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</path>
+      <latitude-deg type="double">21.43050925</latitude-deg>
+      <longitude-deg type="double">-157.7739905</longitude-deg>
+      <elevation-ft type="double">-0.1773982418</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">-0.0540709841</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac -157.77399046 21.43050925 -0.0541 0.0 0.0 -0.0</object-line>
+    </model>
+    <model n="5">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">0</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</path>
+      <latitude-deg type="double">21.43050069</latitude-deg>
+      <longitude-deg type="double">-157.7730425</longitude-deg>
+      <elevation-ft type="double">-0.1625986626</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">-0.04956007236</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac -157.77304251 21.43050069 -0.0496 0.0 0.0 -0.0</object-line>
+    </model>
+    <model n="6">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-88</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac</path>
+      <latitude-deg type="double">21.43050506</latitude-deg>
+      <longitude-deg type="double">-157.7719266</longitude-deg>
+      <elevation-ft type="double">-0.1368532665</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">88</stg-heading-deg>
+      <elevation-m type="double">-0.04171287563</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac -157.77192657 21.43050506 -0.0417 88.0 0.0 -0.0</object-line>
+    </model>
+    <model n="7">
+      <legend type="string"></legend>
+      <pitch-deg type="double">0</pitch-deg>
+      <heading-deg type="double">-92</heading-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac</path>
+      <latitude-deg type="double">21.43057702</latitude-deg>
+      <longitude-deg type="double">-157.7697621</longitude-deg>
+      <elevation-ft type="double">-0.09822615174</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">92</stg-heading-deg>
+      <elevation-m type="double">-0.02993933105</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedGate.ac -157.76976206 21.43057702 -0.0299 92.0 0.0 -0.0</object-line>
+    </model>
+    <model n="8">
+      <legend type="string"></legend>
+      <heading-deg type="double">0</heading-deg>
+      <pitch-deg type="double">0</pitch-deg>
+      <roll-deg type="double">0</roll-deg>
+      <path type="string">Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</path>
+      <latitude-deg type="double">21.43220854</latitude-deg>
+      <longitude-deg type="double">-157.7750553</longitude-deg>
+      <elevation-ft type="double">-0.2170457357</elevation-ft>
+      <absolute-path type="string">C:/Program Files/FlightGear 2019.1.1/data/Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac</absolute-path>
+      <stg-path type="string">w160n20/w158n21/367577.stg</stg-path>
+      <stg-heading-deg type="double">0</stg-heading-deg>
+      <elevation-m type="double">-0.06615554023</elevation-m>
+      <object-line type="string">OBJECT_SHARED Models/AAA_terrasync/Models/Sport/RedbullRedPylon.ac -157.77505526 21.43220854 -0.0662 0.0 0.0 -0.0</object-line>
+    </model>
+  </models>
+</PropertyList>
