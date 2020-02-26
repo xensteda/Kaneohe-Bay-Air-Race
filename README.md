@@ -6,5 +6,7 @@ can be added to Flightgear in the Settings Menu.
 
 The file just has the racing pylons, no buildings are included.
 
+The best way to get to the course is using Runway 22 at PHNG Airbase.
+
 I highly recommend the Hawaii Custom Scenery by D-ECHO:
 https://github.com/D-ECHO/Hawaii-CustomScenery
