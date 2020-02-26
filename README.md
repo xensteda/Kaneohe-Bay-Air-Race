@@ -1,4 +1,4 @@
-# air-racing
+# The Kaneohe Bay Air Race
  
 The file contains an air racing course located at Kaneohe, Hawaii inspired
 by the professional air racing tournaments sponsored by Red Bull. The XML file
