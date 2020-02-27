@@ -20,3 +20,6 @@ When using the Addons Menu inside Flightgear to load the course:
 Just make sure the KaneoheBayAirRace scenery is loaded on top
 of D-ECHO's Hawaii Custom Scenery (if using it). The course will not show up if
 it is loaded underneath the Hawaii-CustomScenery.
+
+Check file KBAR-over-HCS.jpg to see what I mean.
+
