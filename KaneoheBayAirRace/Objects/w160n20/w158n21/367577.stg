@@ -1,4 +1,12 @@
-OBJECT_BASE 367577.btg
+OBJECT_STATIC RedbullStartGate.ac -157.77260930 21.43183856 -0.0534 80.0 0.0 -0.0
+OBJECT_STATIC RedbullRedPylon.ac -157.77378280 21.43195172 -0.0591 0.0 0.0 -0.0
+OBJECT_STATIC RedbullRedGate.ac -157.77569730 21.43144833 -0.0646 340.0 0.0 -0.0
+OBJECT_STATIC RedbullRedPylon.ac -157.77499000 21.43048053 -0.0581 0.0 0.0 -0.0
+OBJECT_STATIC RedbullRedPylon.ac -157.77399050 21.43050925 -0.0541 0.0 0.0 -0.0
+OBJECT_STATIC RedbullRedPylon.ac -157.77304250 21.43050069 -0.0496 0.0 0.0 -0.0
+OBJECT_STATIC RedbullRedGate.ac -157.77192660 21.43050506 -0.0417 88.0 0.0 -0.0
+OBJECT_STATIC RedbullRedGate.ac -157.76976210 21.43057702 -0.0299 92.0 0.0 -0.0
+OBJECT_STATIC RedbullRedPylon.ac -157.77505530 21.43220854 -0.0662 0.0 0.0 -0.0
 OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -157.800489 21.378147 83 0.0
 OBJECT_SHARED Models/Communications/Antenna1.ac -157.790000 21.394444 71 0.0
 OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -157.809619 21.398844 62 0.0
@@ -12,7 +20,6 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -157.763217
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -157.760000 21.451111 -105 0.0
 OBJECT_SHARED Models/Power/Transformerstation.xml -157.756608 21.456042 16 0.0
 OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -157.756808 21.456103 -12 0.0
-OBJECT PHNG.btg
 OBJECT_SHARED Models/Airport/windsock_lit.xml -157.777455 21.444783 0.8 0.00
 OBJECT_SHARED Models/Airport/windsock_lit.xml -157.757923 21.456350 8.1 0.00
 OBJECT_SHARED Models/Airport/beacon.xml -157.763950 21.450518 8.7 0.00
