@@ -1,4 +1,4 @@
-# The Flightgear Kaneohe Bay Air Race
+# The Kaneohe Bay Air Race
 Air race course in Hawaii for Flightgear Flight Simulator.
 
 This course is designed to be like the Red Bull Air Race tournaments.
