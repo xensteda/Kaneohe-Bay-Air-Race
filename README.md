@@ -4,8 +4,9 @@ The file contains an air racing course located at Kaneohe, Hawaii inspired
 by the professional air racing tournaments sponsored by Red Bull.
 
 First Step:
-Put the 2 files that say "367577.stg" in this folder:
-Terrasync/Terrain/w160n20/w158n21
+Put the 2 files that say "367577.stg" in this folder (for Windows OS):
+
+C:\Users\User Name/Documents/FlightGear/TerraSync/Terrain/w160n20/w158n21
 
 That might be it, not sure to be honest, the XML file might not be needed after
 adding the .stg file.
